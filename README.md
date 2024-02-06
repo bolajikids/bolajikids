@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bolajikids
 - 👀 I’m interested in soccer
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on memorizing python
 - 📫 How to reach me IDC
 
